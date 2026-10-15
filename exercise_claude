@@ -1,0 +1,17 @@
+QUESTIONS: 
+
+1. What do a.nbytes and sys.getsizeof(a) return? Which is bigger, and why?
+2. Does sys.getsizeof(L) include the 8 int objects?
+3. What are a.reshape(4, 2).strides and a[::-1].strides?
+4. What is a.reshape(2, 4).T.strides?
+5. What is np.arange(1, 9, dtype=np.float32).strides?
+6. What do np.shares_memory(a, a[::2]) and np.shares_memory(a, a[a > 4]) return?
+
+ANSWERS:
+
+1.  
+2.
+3.
+4.
+5.
+6.
