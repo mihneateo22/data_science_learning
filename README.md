@@ -1,7 +1,7 @@
 # Data Science Learning
 
 My path through Jake VanderPlas's *Python Data Science Handbook* (2nd ed.),
-Oct 15 – Dec 14, 2026, with a project of my own built alongside it.
+with a project of my own built alongside it.
 
 The book covers IPython, NumPy, Pandas, Matplotlib/Seaborn and Scikit-Learn.
 The project grows as I read: every chapter's tools show up in it as soon as I've learned them,
